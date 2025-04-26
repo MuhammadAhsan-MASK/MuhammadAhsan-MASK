@@ -44,9 +44,6 @@ I'm a passionate Computer Science student currently in my 6th semester, with a s
 - Postman (API Testing)
 - MySQL Workbench
 
- 📈 GitHub Stats
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhsan-MASK&show_icons=true&theme=tokyonight)
-
  📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-MASK&layout=compact&theme=tokyonight)
 
