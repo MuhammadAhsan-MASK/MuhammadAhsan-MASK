@@ -45,10 +45,10 @@ I'm a passionate Computer Science student currently in my 6th semester, with a s
 - MySQL Workbench
 
  📈 GitHub Stats
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsansaeed1993&show_icons=true&theme=tokyonight)
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhsan-MASK&show_icons=true&theme=tokyonight)
 
  📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansaeed1993&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-MASK&layout=compact&theme=tokyonight)
 
  🌐 Connect With Me
 - 📧 [Gmail](mailto:ahsansaeed1993@gmail.com)
