@@ -1,7 +1,7 @@
  Hi there 👋, I'm Ahsan
 
 
-I'm a passionate Computer Science student currently in my 6th semester, with a strong interest in Web Development,Mobile App Development and a growing interest in Data Science.
+I'm a passionate Computer Science student currently in University, with a strong interest in Web Development,Mobile App Development and a growing interest in Data Science.
 
 - 🔭 I’m currently working on my Final Year Project— a location-based safety app built using Flutter
 - 🌱 I’m learning Flutter, Dart,Backend Development (Node.js, PHP basics) and deepening my skills in Web Technologies like HTML, CSS, and Bootstrap
