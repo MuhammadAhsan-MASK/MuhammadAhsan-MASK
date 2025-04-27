@@ -45,7 +45,7 @@ I'm a passionate Computer Science student currently in University, with a strong
 - MySQL Workbench
 
  📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-MASK&layout=compact&theme=tokyonight)
+
 
  🌐 Connect With Me
 - 📧 [Gmail](mailto:ahsansaeed1993@gmail.com)
