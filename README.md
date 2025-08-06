@@ -1,13 +1,10 @@
- Hi there 👋, I'm Ahsan
+I am a passionate Computer Science student currently pursuing my degree with strong interests in Web Development, Mobile App Development, and a growing focus on Data Science, AI, and Machine Learning.
 
+I am actively learning Flutter and Dart for cross-platform app development, exploring backend development using Node.js and PHP, and deepening my expertise in web technologies such as HTML, CSS, and Bootstrap.
 
-I'm a passionate Computer Science student currently in University, with a strong interest in Web Development,Mobile App Development and a growing interest in Data Science.
+In addition to development, I’m expanding my knowledge in Data Science tools and concepts, including Power BI for data visualization and reporting, and foundational skills in AI and machine learning.
 
-- 🌱 I’m learning Flutter, Dart,Backend Development (Node.js, PHP basics) and deepening my skills in Web Technologies like HTML, CSS, and Bootstrap
-- 👯 I’m open to collaborating on App Development, Web Projects, and Open Source
-- 💬 Ask me about C++, Java, Frontend Web Development, and FYP planning
-- 📫 How to reach me: ahsansaeed1993@gmail.com
-- ⚡ Fun fact: I love building real-world projects that solve real problems 🌍
+I enjoy working on real-world projects that challenge my skills and help me grow. I’m open to collaborating on mobile apps, web development, data-driven solutions, and open-source contributions. Always eager to learn, build, and contribute to meaningful work.
 
  🛠️ Skills
 
