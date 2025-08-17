@@ -32,6 +32,7 @@ I enjoy working on real-world projects that challenge my skills and help me grow
  📊 Data Science
 - Python Libraries: Pandas, NumPy, Matplotlib
 - Jupyter Notebook
+- Power BI (Data Visualization & Reporting)
 
  🛠️ Tools & Technologies
 - Git & GitHub
@@ -39,6 +40,7 @@ I enjoy working on real-world projects that challenge my skills and help me grow
 - Figma (UI/UX Designing)
 - Postman (API Testing)
 - MySQL Workbench
+- Power BI
 
  📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-MASK&layout=compact&theme=tokyonight)
