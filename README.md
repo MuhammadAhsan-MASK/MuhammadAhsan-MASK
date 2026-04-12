@@ -1,50 +1,43 @@
-I am a passionate Computer Science student currently pursuing my degree with strong interests in Web Development, Mobile App Development, and a growing focus on Data Science, AI, and Machine Learning.
+About Me
 
-I am actively learning Flutter and Dart for cross-platform app development, exploring backend development using Node.js and PHP, and deepening my expertise in web technologies such as HTML, CSS, and Bootstrap.
+I am a Computer Science student with a strong interest in building practical and impactful software solutions. My core focus areas include Web Development and Mobile App Development, while I am continuously expanding my knowledge in Data Science, Artificial Intelligence, and Machine Learning.
 
-In addition to development, I’m expanding my knowledge in Data Science tools and concepts, including Power BI for data visualization and reporting, and foundational skills in AI and machine learning.
+I have hands-on experience developing responsive web applications and cross-platform mobile apps. Currently, I am strengthening my skills in Flutter and Dart, along with exploring backend development using Node.js and PHP.
 
-I enjoy working on real-world projects that challenge my skills and help me grow. I’m open to collaborating on mobile apps, web development, data-driven solutions, and open-source contributions. Always eager to learn, build, and contribute to meaningful work.
+Alongside development, I am also building a foundation in data-driven technologies, working with tools like Power BI for visualization and gaining experience with Python-based data analysis.
 
- 🛠️ Skills
+I enjoy working on real-world projects that challenge my problem-solving abilities and help me grow as a developer. I am always open to collaboration, learning new technologies, and contributing to meaningful projects.
 
- 💻 Programming Languages
-- C++
-- Java
-- Python
-- Dart
-- JavaScript
-- PHP (basic)
+🛠️ Skills
+💻 Programming Languages
+C++
+Java
+Python
+Dart
+JavaScript
+PHP (Basic)
+🌐 Web Development
+HTML5, CSS3, Bootstrap 5
+Basic JavaScript
+Responsive Design (Mobile-First Approach)
+🖥️ Backend Development
+Node.js (Basic API Development)
+PHP (Server-Side Scripting)
+MySQL (CRUD Operations & Database Design)
+📱 Mobile App Development
+Flutter (Cross-Platform Application Development)
+📊 Data Science
+Python Libraries: Pandas, NumPy, Matplotlib
+Jupyter Notebook
+Power BI (Data Visualization & Reporting)
+🛠️ Tools & Technologies
+Git & GitHub
+Visual Studio Code
+Figma (UI/UX Design)
+Postman (API Testing)
+MySQL Workbench
+Power BI
+📊 Top Languages
 
- 🌐 Web Development
-- HTML5, CSS3, Bootstrap5
-- Basic JavaScript
-- Responsive Design (Mobile First)
-
- 🖥️ Backend Development
-- Node.js (basic backend APIs)
-- PHP (basic server-side scripting)
-- MySQL Database (CRUD Operations)
-
- 📱 Mobile App Development
-- Flutter (Cross-platform apps)
-
- 📊 Data Science
-- Python Libraries: Pandas, NumPy, Matplotlib
-- Jupyter Notebook
-- Power BI (Data Visualization & Reporting)
-
- 🛠️ Tools & Technologies
-- Git & GitHub
-- VS Code
-- Figma (UI/UX Designing)
-- Postman (API Testing)
-- MySQL Workbench
-- Power BI
-
- 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-MASK&layout=compact&theme=tokyonight)
-
- 🌐 Connect With Me
-- 📧 [Gmail](mailto:ahsansaeed1993@gmail.com)
-  
+🌐 Connect With Me
+📧 ahsansaeed1993@gmail.com
