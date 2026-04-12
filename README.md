@@ -1,4 +1,3 @@
-About Me
 
 I am a Computer Science student with a strong interest in building practical and impactful software solutions. My core focus areas include Web Development and Mobile App Development, while I am continuously expanding my knowledge in Data Science, Artificial Intelligence, and Machine Learning.
 
@@ -37,7 +36,6 @@ Figma (UI/UX Design)
 Postman (API Testing)
 MySQL Workbench
 Power BI
-📊 Top Languages
 
 🌐 Connect With Me
 📧 ahsansaeed1993@gmail.com
