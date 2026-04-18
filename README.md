@@ -69,8 +69,7 @@ I am motivated to continuously learn, improve my technical skills, and contribut
 
 ## Contact
 
-Email: ahsansaeed1993@gmail.com  
-GitHub: https://github.com/MuhammadAhsan-MASK  
+Email: ahsansaeed1993@gmail.com   
 Portfolio: https://portfolio-web-cb5ef.web.app/
 
 ---
