@@ -81,4 +81,4 @@ To grow as a software developer and build scalable, efficient, and real-world ap
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-MASK&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-MASK&layout=compact&theme=tokyonight)
